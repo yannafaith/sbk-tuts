@@ -1,1 +1,1 @@
-![Screnshot][vidShot.png]
+![Screnshot](vidShot.png)
