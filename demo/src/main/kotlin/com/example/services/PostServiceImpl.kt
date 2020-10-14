@@ -1,4 +1,6 @@
-package com.example
+package com.example.services
+import com.example.entities.Post
+
 import org.springframework.stereotype.Service
 
 @Service
